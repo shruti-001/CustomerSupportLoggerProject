@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerSupportLoggerApp", "CustomerSupportLoggerApp\CustomerSupportLoggerApp.csproj", "{EE40960C-610A-40CB-A02E-99CF06A64DDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerSupportLoggerApp.Tests", "CustomerSupportLoggerApp.Tests\CustomerSupportLoggerApp.Tests.csproj", "{1794A33A-4800-4DBE-B5EA-7C52C408B0FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE40960C-610A-40CB-A02E-99CF06A64DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE40960C-610A-40CB-A02E-99CF06A64DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE40960C-610A-40CB-A02E-99CF06A64DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE40960C-610A-40CB-A02E-99CF06A64DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1794A33A-4800-4DBE-B5EA-7C52C408B0FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1794A33A-4800-4DBE-B5EA-7C52C408B0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1794A33A-4800-4DBE-B5EA-7C52C408B0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1794A33A-4800-4DBE-B5EA-7C52C408B0FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4D49876-65D9-4FE5-A238-5399992CA387}
+	EndGlobalSection
+EndGlobal
